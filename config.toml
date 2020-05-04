@@ -2,7 +2,7 @@ baseurl = "https://about.zyradyl.moe"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "Beautiful Hugo"
+title = "About"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
