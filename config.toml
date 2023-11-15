@@ -14,13 +14,13 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Author]
-    name = "Zyradyl"
-    bio = "Calm Healer/Angry Technomage"
+    name = "ばか Yuki"
+    bio = "Student/Technomage"
 
 [params.colors]
   background = "#000000"
   circle = "#333399"
-  foreground = "#d98cd9"
+  foreground = "#ec98de"
   hover = "#993399"
 
 [params]
