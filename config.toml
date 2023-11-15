@@ -19,9 +19,9 @@ pygmentCodeFences = true
 
 [params.colors]
   background = "#000000"
-  circle = "#3942ba"
-  foreground = "#c7d0fc"
-  hover = "#cd6cf7"
+  circle = "#333399"
+  foreground = "#d98cd9"
+  hover = "#993399"
 
 [params]
     [[params.links]]
