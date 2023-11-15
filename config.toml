@@ -35,7 +35,7 @@ pygmentCodeFences = true
         title = "Archive"
         url = "https://archive.zyradyl.moe/about"
     [[params.links]]
-        iconset = "fab"
-        icon = "discord"
-        title = "Discord"
-        url = "https://discord.gg/mA8PMGV"
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-Mail"
+        url = "mailto:yuki.MUSUBI.@zyradyl.moe?subject=Hi!%20(I%20took%20out%20the%20spam%20prevention!)"
